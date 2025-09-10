@@ -166,5 +166,17 @@ footer{
 
 footer p{
     font-family: "Julius Sas One", sans-serifn;
+    text-align: center;
+}
+
+
+
+
+
+/* media */
+@media screen and (max-width: 600px){
+  .banner{
+      aspect-ratio: 2.0;
+  }
 }
 
